@@ -18,6 +18,10 @@
  <a href="https://github.com/devzwy">
      <img src="https://img.shields.io/badge/QQ-3648415-brightness.svg" />
   </a>
+   <a href="https://github.com/devzwy">
+     <img src= "https://komarev.com/ghpvc/?username=devzwy&color=brightgreen&label=👁%20ShowTimes" />
+  </a>
+    
 </p>
 
 
