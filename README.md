@@ -26,4 +26,4 @@
 </p>
 
 
-<p align="center" style="color:red;">有一颗想做后台的梦~</p>
+<p align="center" style="color:red;">An Android developer ~</p>
