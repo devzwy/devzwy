@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/devzwy">
+    <img src="https://github-readme-stats.vercel.app/api?username=devzwy&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+  </a>
+</p>
 
-<!--
-**devzwy/devzwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/devzwy">
+   <img src="https://img.shields.io/badge/热爱编码-brightness.svg" />
+  </a>
+  <a href="https://github.com/devzwy/open_nsfw_android">
+     <img src="https://img.shields.io/badge/open_nsfw_android-1.5.1-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/devzwy/SocialHelper">
+     <img src="https://img.shields.io/nexus/r/io.github.devzwy/socialhelper?label=SocialHelper&nexusVersion=2&server=https%3A%2F%2Fs01.oss.sonatype.org" />
+  </a>
 
-Here are some ideas to get you started:
+ <a href="https://github.com/devzwy">
+     <img src="https://img.shields.io/badge/QQ-3648415-brightness.svg" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">有一个想做后台的梦~</p>
