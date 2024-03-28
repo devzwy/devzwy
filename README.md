@@ -14,7 +14,7 @@
   
   
     
-</di v>
+</div>
 
 
 <p align="center">An Android developer ~</p>
