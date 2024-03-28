@@ -8,20 +8,7 @@
   <a href="https://github.com/devzwy">
    <img src="https://img.shields.io/badge/编码狂人-brightness.svg" />
   </a>
-   <a href="https://github.com/devzwy/open_nsfw_android">
-     <img src="https://img.shields.io/nexus/r/io.github.devzwy/nsfw?label=NSFW&nexusVersion=2&server=https%3A%2F%2Fs01.oss.sonatype.org" />
-  </a>
   
-  <a href="https://github.com/devzwy/SocialHelper">
-     <img src="https://img.shields.io/nexus/r/io.github.devzwy/socialhelper?label=SocialHelper&nexusVersion=2&server=https%3A%2F%2Fs01.oss.sonatype.org" />
-  </a>
-
- <a href="https://github.com/devzwy">
-     <img src="https://img.shields.io/badge/QQ-3648415-brightness.svg" />
-  </a>
-   <a href="https://github.com/devzwy">
-     <img src= "https://komarev.com/ghpvc/?username=devzwy&color=brightgreen&label=ShowTimes" />
-  </a>
     
 </p>
 
