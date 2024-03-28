@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/devzwy">
    <img src="https://img.shields.io/badge/编码狂人-brightness.svg" />
   </a>
@@ -14,7 +14,7 @@
   
   
     
-</p>
+</di v>
 
 
 <p align="center">An Android developer ~</p>
