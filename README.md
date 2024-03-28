@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/devzwy">
-    <img src="https://github-readme-stats.vercel.app/api?username=devzwy&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+    <img src="https://github-readme-stats.vercel.app/api?username=devzwy&count_private=false&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
   </a>
 </p>
 
