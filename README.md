@@ -25,9 +25,6 @@
     
 </div>
 
-
-<p align="center">An Android developer ~</p>
-
 <p align="center">我希望有个如你一般的人，如山间清爽的风，如古城温暖的光，从清晨到夜晚，由山野到书房，只要最后是你就好。</p>
 
 
